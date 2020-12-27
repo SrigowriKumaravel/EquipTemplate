@@ -1,0 +1,33 @@
+
+  .imgIcon{
+    color:white;
+    font-size: 1rem;
+  }
+  #circle-icon {
+    padding:5px;
+    border-radius: 50rem;
+    border-color:#D3D3D3;
+    background-color:#D3D3D3 ;
+    color: black;
+}
+#circle-users {
+    padding:5px;
+    border-radius: 50rem;
+    border-color: #6c9fd5;
+    background-color:white ;
+    color: #6c9fd5;
+}
+.hdpText{
+    font-size: 0.9rem;
+    text-align: justify;
+    margin-top: 1rem;
+}
+.textBorder{
+    border-radius: 1rem; 
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+.textBorder1{
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}

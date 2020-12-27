@@ -1,0 +1,8 @@
+.cardText{
+   font-size: 0.6rem;
+   white-space: nowrap;   
+   color: #6c9fd5
+}
+input[type="radio"]{
+   margin: 0 10px 0 10px;
+ }
